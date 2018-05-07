@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo tranquilpeak theme</title>
+    <link>https://aillkeen.github.io/meu-portifolio/post/</link>
+    <description>Recent content in Posts on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aillkeen.github.io/meu-portifolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Problema 1 - Checkpoint 1 - Nossa pergunta</title>
+      <link>https://aillkeen.github.io/meu-portifolio/2018/05/problema-1---checkpoint-1---nossa-pergunta/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://aillkeen.github.io/meu-portifolio/2018/05/problema-1---checkpoint-1---nossa-pergunta/</guid>
+      <description>library(ggplot2) library(dplyr) library(tidyr) library(readr) theme_set(theme_minimal()) Descrição dos dados O conjunto de dados a ser estudado aqui, reune informações sobre a avaliação dada no IBDM de algumas séries populares na atualidade. Os dados foram coletados através de métodos descritos aqui.
+A base da dados contêm informações de cada episódio da série, sua avaliação no IBDM, o número de votos recebidos por cada episódio e as proporções de votos de 1 a 10 para cada episódio.</description>
+    </item>
+    
+    <item>
+      <title>Problema 1 - Checkpoint 4 - Relatório Final</title>
+      <link>https://aillkeen.github.io/meu-portifolio/1/01/problema-1---checkpoint-4---relat%C3%B3rio-final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aillkeen.github.io/meu-portifolio/1/01/problema-1---checkpoint-4---relat%C3%B3rio-final/</guid>
+      <description>library(tidyr) library(dplyr) library(readr) library(ggplot2) theme_set(theme_minimal()) series &amp;lt;- read_csv(&amp;quot;series_from_imdb.csv&amp;quot;) O episódios season finale são considerados melhores que os demais? Os episódios que encerram as temporadas são os que costumam causar mais frisson, em geral eles são repletos de suspense, reviravoltas, drama e tudo mais que prenda a nossa atenção e nos deixe sedentos pela próxima temporada.
+Mas será que as séries estão conseguindo realmente fazer isso? Será que esses episódios são melhores que os demais?</description>
+    </item>
+    
+  </channel>
+</rss>
